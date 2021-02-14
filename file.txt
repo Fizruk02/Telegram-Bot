@@ -1,0 +1,41 @@
+$data: Array
+(
+    [update_id] => 25992303
+    [message] => Array
+        (
+            [message_id] => 1717
+            [from] => Array
+                (
+                    [id] => 1130112147
+                    [is_bot] => 
+                    [first_name] => Dmitry
+                    [last_name] => Phizruk
+                    [username] => Chord_s_gitaroy
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1130112147
+                    [first_name] => Dmitry
+                    [last_name] => Phizruk
+                    [username] => Chord_s_gitaroy
+                    [type] => private
+                )
+
+            [date] => 1609955765
+            [text] => Привет
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 15
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
